@@ -1,0 +1,21 @@
+.bar{
+    margin-top:60px;
+    height:550px;
+    display: flex;
+    object-fit: contain;
+    display: flex;
+    flex-direction: column;
+}
+
+.radio_input{
+    margin-left:40%;
+    justify-content: center;
+}
+
+.radio_button{
+    margin-right:5px;
+    margin-left:5px;
+}
+
+
+

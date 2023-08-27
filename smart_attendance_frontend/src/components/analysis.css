@@ -1,0 +1,56 @@
+  .container {
+    background-color: white;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .analysis-box {
+    object-fit: contain;
+    display: flex;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    margin-left:1px;
+    background-color: #ffffff;
+    position: fixed;
+    opacity:1;
+    align-items: center;
+  }
+  
+  .analysis-box h5 {
+    margin-left: 5px;
+  }
+  
+  .analysis-box input {
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    margin-left:10px;
+    margin-right: 10px;
+    border-radius: 3px;
+  }
+  
+  .submit_button {
+    background: #f0c14b;
+    border-radius: 2px;
+    width: 100px;
+    height: 30px;
+    border: 1px solid;
+    margin-left:10px;
+    margin-right: 10px;
+    border-color: #a88734 #9c7e31 #846a29;
+  } 
+  
+  .submit_button:hover {
+    background-color: #b38900;
+  }
+
+  .studentPresent{
+    margin-top:100px;
+  }
+
+  .course_student{
+    display:flex;
+    margin-top:10px;
+  }
+

@@ -1,0 +1,10 @@
+.Pie-chart{
+    margin-top:70px;
+    height:600px;
+    width:400px;
+    justify-content: center;
+    object-fit: contain;
+    border: 1px solid #ccc;
+    padding-top: 100px;
+    margin-left:200px;
+}
